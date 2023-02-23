@@ -1,9 +1,9 @@
 from dirsync import sync
 import os
 
-src="/Path/to/source"
+src="/path/to/source"
 print("\nSource : "+src)
-dest = "Path/to/destination"
+dest = "path/to/destination"
 print("Destination : "+dest+"\n")
 
 if(os.path.exists(dest)):
