@@ -3,7 +3,9 @@
 This script used to  sync the contents of one directory to another.
 
 To run the script, there are two options : 
+
 Method 1
+
 Method 2(Does not work well with git repositories)
 
 ---
