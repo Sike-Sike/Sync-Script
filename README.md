@@ -3,10 +3,10 @@
 This script used to  sync the contents of one directory to another.
 
 To run the script, there are two options : 
+Method 1
+Method 2(Does not work well with git repositories)
 
-- Method 1
-- Method 2(Does not work well with git repositories)
-
+---
 - Method 1(rsync)
 
 Replace ``path/to/sourceDirectory`` and ``path/to/destinationDirectory`` in rSync.py by the appropriate paths to source and destination.
