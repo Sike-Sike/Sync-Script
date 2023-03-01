@@ -11,7 +11,7 @@ Method 2(Does not work well with git repositories)
 ---
 - Method 1(rsync)
 
-Replace ``path/to/sourceDirectory`` and ``path/to/destinationDirectory`` in rSync.py by the appropriate paths to source and destination.
+Replace ``path/to/sourceDirectory`` and ``path/to/destinationDirectory`` in rSync.sh by the appropriate paths to source and destination.
 
 Give execute permission to rSync.sh by:
 ```    
