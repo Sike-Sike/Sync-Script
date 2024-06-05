@@ -42,3 +42,8 @@ Finally run the script by:
 ```
     ./sync.sh
 ```
+
+# TODO
+
+- Use a config file to store ``path/to/sourceDirectory`` and ``path/to/destinationDirectory``.
+- Extend it cross-platform maybe in another Github repo.
